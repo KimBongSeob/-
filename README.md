@@ -1,4 +1,4 @@
-# 학사관리시스템
+# LMS (Learning Management System)
 
-세미프로젝트 1조 개발코드
+학사관리 시스템
 
