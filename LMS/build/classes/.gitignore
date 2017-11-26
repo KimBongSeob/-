@@ -1,0 +1,14 @@
+/action/
+/admin/
+/board/
+/classplan/
+/classrequest/
+/jdbc/
+/mvc/
+/noticeboard/
+/pds/
+/professor/
+/readOnlynoticeProfessor/
+/readOnlynoticeStudent/
+/student/
+/subject/

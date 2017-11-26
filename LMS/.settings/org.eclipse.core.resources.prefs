@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebContent/LearningManagementSystem/student/head.jsp=UTF-8
+encoding//WebContent/LearningManagementSystem/student/result.jsp=UTF-8
+encoding//src/action/Admin/DeleteProfessorAction.java=UTF-8
+encoding//src/action/Admin/DeleteStudentAction.java=UTF-8
+encoding//src/action/noticeboard/DeleteFormAction.java=UTF-8
+encoding//src/admin/Service/DeleteStudentService.java=UTF-8
+encoding//src/noticeboard/DAO/NoticeboardDao.java=UTF-8
+encoding/<project>=UTF-8
